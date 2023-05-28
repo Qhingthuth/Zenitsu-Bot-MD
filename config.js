@@ -5,13 +5,13 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-  ['917736799273', 'NKMODS - ZENITSU BOT OWNER', true],
-  ['917591970432', 'Zenitsu Bot Creater', true]
+  ['2349022424808', 'PRINCE - ZENITSU BOT OWNER', true],
+  ['2349038303472', 'Prince Bot Creater', true]
 ] 
 global.suittag = ['917736799273'] 
 global.prems = ['917736799273'] 
 
-global.packname = 'Zenitsu Bot͏'
+global.packname = 'Prince Bot͏'
 global.author = '𝓷𝓴𝓶𝓸𝓭𝓼⁶⁶⁶ O͏p͏z͏'
 global.wm = '𝓷𝓴𝓶𝓸𝓭𝓼⁶⁶⁶ O͏p͏z͏'
 global.igfg = '𝓷𝓴𝓶𝓸𝓭𝓼⁶⁶⁶ O͏p͏z͏'
@@ -80,7 +80,7 @@ global.imagen4 = fs.readFileSync('./Menu.png')
 
 global.generateWAMessageFromContent = generateWAMessageFromContent
 
-global.mods = [] 
+global.mods = ['2349038303472'] 
 
 global.multiplier = 9999 
 global.rpg = {
