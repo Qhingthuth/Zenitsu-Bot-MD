@@ -5,17 +5,17 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-  ['2349022424808', 'PRINCE - ZENITSU BOT OWNER', true],
+  ['2349022424808', 'PRINCE - BOT OWNER', true],
   ['2349038303472', 'Prince Bot Creater', true]
 ] 
-global.suittag = ['917736799273'] 
-global.prems = ['917736799273'] 
+global.suittag = ['2349038303472'] 
+global.prems = ['2349038303472'] 
 
 global.packname = 'Prince Bot͏'
 global.author = '𝓷𝓴𝓶𝓸𝓭𝓼⁶⁶⁶ O͏p͏z͏'
 global.wm = '𝓷𝓴𝓶𝓸𝓭𝓼⁶⁶⁶ O͏p͏z͏'
 global.igfg = '𝓷𝓴𝓶𝓸𝓭𝓼⁶⁶⁶ O͏p͏z͏'
-global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
+global.wait = '*[❗] LOADING, WAIT FOR A MOMENT...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
